@@ -1,0 +1,31 @@
+# fly.toml file generated for elaxi-painel on 2025-11-09
+#
+# See https://fly.io/docs/reference/configuration/ for information about this file.
+#
+
+app = "elaxi-painel" # Você pode mudar o nome do seu app aqui
+primary_region = "gru" # Região primária (ex: 'gru' para São Paulo). Escolha a mais próxima dos seus usuários.
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  # Adicione quaisquer variáveis de ambiente que seu aplicativo PHP precise aqui
+  # Por exemplo, para o banco de dados:
+  # DB_HOST = "your-database-host"
+  # DB_USER = "your-database-user"
+  # DB_PASSWORD = "your-database-password"
+  # DB_NAME = "your-database-name"
+
+[http_service]
+  internal_port = 8080 # A porta que o Nginx está ouvindo dentro do container
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory = "256mb"
