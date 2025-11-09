@@ -1,0 +1,427 @@
+/* Importe fontes se quiser algo mais específico, por exemplo, de Google Fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap'); */
+
+/* --- Reset e Base --- */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Garante que body e html ocupem a altura total da tela */
+    box-sizing: border-box; /* Garante que padding e border sejam incluídos no cálculo de tamanho */
+}
+
+body {
+    background-color: #1a1a2e; /* Azul-roxo escuro */
+    color: #e0e0e0; /* Cinza claro para o texto */
+    font-family: 'Segoe UI', Arial, sans-serif; /* Fonte moderna e limpa */
+    /* Removido margin e padding explícitos, pois o reset 'html, body' já lida */
+    /*
+        *** PONTO CRÍTICO PARA AJUSTE ***
+        Se o seu 'menu.php' cria uma barra de navegação FIXA no topo,
+        adicione um 'padding-top' aqui no 'body' com a altura do seu menu.
+        Exemplo: Se o menu tiver 50px de altura, use 60px para dar um espaço extra.
+    */
+    /* padding-top: 60px; */ /* Descomente e ajuste se o menu.php for fixo */
+}
+
+/* Opcional: Adiciona um padrão de fundo sutil para textura */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10"><rect fill="%232c2c4a" width="10" height="10"/><rect x="0" y="0" width="1" height="1" fill="%233e3e6b"/></svg>');
+    opacity: 0.1;
+    z-index: -1;
+}
+
+/* --- Regra CRUCIAL para descer o botão de adicionar e o conteúdo --- */
+#main-content-wrapper {
+    /* **AJUSTE ESTE VALOR DE 'padding-top'** */
+    /* Este é o valor mais importante para o seu problema. */
+    /* Comece com algo como 80px e vá aumentando (90px, 100px, etc.) */
+    /* até que o botão "Adicionar" e o campo "Pesquisar" estejam perfeitamente visíveis e com espaço. */
+    padding-top: 80px; /* VALOR A SER AJUSTADO */
+    
+    /* Paddings laterais e inferior para o seu conteúdo */
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+    /* Para depuração: adicione um fundo temporário para ver a área deste div */
+    /* background-color: rgba(255, 0, 0, 0.2); */
+}
+
+
+/* --- Títulos e Cabeçalhos --- */
+h4 {
+    color: #00f0ff; /* Azul elétrico */
+    text-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff; /* Brilho sutil */
+    letter-spacing: 2px; /* Um pouco mais de espaço entre as letras */
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 1rem; /* Garante espaço abaixo do h4 */
+}
+
+/* --- Botões --- */
+.btn {
+    border-radius: 3px; /* Cantos levemente afiados */
+    padding: 10px 20px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 240, 255, 0.3);
+}
+
+.btn-outline-success {
+    color: #00f0ff;
+    border: 1px solid #00f0ff;
+    background-color: transparent;
+}
+
+.btn-outline-success:hover {
+    background-color: #00f0ff;
+    color: #1a1a2e;
+    box-shadow: 0 0 15px #00f0ff, 0 0 30px #00f0ff; /* Brilho mais forte no hover */
+    transform: translateY(-2px); /* Efeito de leve elevação */
+}
+
+/* Botão de fechar do modal */
+.modal-header .btn.fa-close {
+    filter: invert(1); /* Deixa-o branco */
+    opacity: 0.8;
+}
+
+.modal-header .btn.fa-close:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* --- Estilo da Tabela --- */
+.table {
+    background-color: #2c2c4a; /* Azul-roxo mais escuro */
+    border-collapse: collapse; /* Remove o espaçamento padrão */
+    border-radius: 8px; /* Cantos levemente arredondados para a tabela */
+    overflow: hidden; /* Garante que os cantos arredondados sejam visíveis */
+    box-shadow: 0 0 10px rgba(0, 240, 255, 0.2); /* Brilho sutil da tabela */
+}
+
+.table thead.table-dark th {
+    background-color: #3e3e6b; /* Azul-roxo ainda mais escuro para o cabeçalho */
+    color: #00f0ff;
+    border-bottom: 2px solid #00f0ff; /* Linha de destaque */
+    padding: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.table tbody tr {
+    transition: background-color 0.3s ease;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #35355a; /* Tom ligeiramente diferente para linhas pares */
+}
+
+.table tbody tr:hover {
+    background-color: #4a4a75; /* Destaque ao passar o mouse */
+    box-shadow: inset 0 0 8px rgba(0, 240, 255, 0.4);
+}
+
+.table td {
+    padding: 12px 15px;
+    border-top: 1px solid #4a4a75; /* Borda sutil entre as células */
+}
+
+/* --- Estilo do Modal --- */
+.modal-content {
+    background-color: #1a1a2e; /* O mesmo que o corpo para consistência */
+    border: 1px solid #00f0ff; /* Borda com brilho */
+    box-shadow: 0 0 25px rgba(0, 240, 255, 0.6); /* Brilho mais forte para o modal */
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.modal-header {
+    background-color: #2c2c4a;
+    border-bottom: 1px solid #00f0ff;
+    padding: 15px 20px;
+}
+
+.modal-title {
+    color: #00f0ff;
+    text-shadow: 0 0 5px #00f0ff;
+    letter-spacing: 1px;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    background-color: #2c2c4a;
+    border-top: 1px solid #00f0ff;
+    padding: 15px 20px;
+}
+
+/* --- Customização do SweetAlert2 --- */
+.swal2-popup {
+    background-color: #1a1a2e !important;
+    border: 1px solid #00f0ff !important;
+    box-shadow: 0 0 20px rgba(0, 240, 255, 0.5) !important;
+    color: #e0e0e0 !important;
+}
+
+.swal2-title {
+    color: #00f0ff !important;
+    text-shadow: 0 0 5px #00f0ff !important;
+}
+
+.swal2-html-container {
+    color: #e0e0e0 !important;
+}
+
+.swal2-confirm.swal2-styled {
+    background-color: #00f0ff !important;
+    color: #1a1a2e !important;
+    border: none !important;
+    box-shadow: 0 0 10px rgba(0, 240, 255, 0.7) !important;
+}
+
+.swal2-confirm.swal2-styled:focus {
+    box-shadow: 0 0 10px rgba(0, 240, 255, 0.7), 0 0 15px rgba(0, 240, 255, 0.5) !important;
+}
+
+/* ... Seu CSS futurista existente (body, h4, .btn, .modal, .swal2, etc.) ... */
+
+/* --- Estilo da Paginação do DataTables e Informações --- */
+
+/* Container da paginação */
+.dataTables_wrapper .dataTables_paginate {
+    margin-top: 15px;
+    text-align: center;
+}
+
+/* Base para TODOS os botões de paginação */
+.dataTables_wrapper .paginate_button {
+    background-color: #3e3e6b !important; /* Fundo azul-roxo escuro - Usar !important */
+    border: 1px solid #00f0ff !important; /* Borda brilhante - Usar !important */
+    color: #e0e0e0 !important; /* Texto claro - Usar !important */
+    padding: 8px 15px;
+    margin: 0 5px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 240, 255, 0.3); /* Brilho sutil */
+    text-decoration: none;
+    display: inline-block;
+    min-width: 70px; /* Garante que os botões tenham largura mínima */
+    text-align: center;
+}
+
+/* Estado de HOVER/FOCO para os botões */
+.dataTables_wrapper .paginate_button:hover,
+.dataTables_wrapper .paginate_button:focus {
+    background-color: #00f0ff !important; /* Fundo azul elétrico - Usar !important */
+    color: #1a1a2e !important; /* Texto escuro no hover - Usar !important */
+    box-shadow: 0 0 15px #00f0ff, 0 0 30px #00f0ff !important; /* Brilho mais forte - Usar !important */
+    transform: translateY(-2px); /* Efeito de leve elevação */
+    outline: none; /* Remover outline padrão do navegador */
+}
+
+/* Botão de página ATIVA (CURRENT) */
+.dataTables_wrapper .paginate_button.current,
+.dataTables_wrapper .paginate_button.current:hover,
+.dataTables_wrapper .paginate_button.current:focus {
+    background-color: #00f0ff !important; /* Fundo azul elétrico - Usar !important */
+    color: #1a1a2e !important; /* Texto escuro - Usar !important */
+    border-color: #00f0ff !important; /* Borda azul elétrico - Usar !important */
+    font-weight: bold; /* Negrito */
+    box-shadow: 0 0 15px #00f0ff, 0 0 30px #00f0ff !important; /* Brilho */
+}
+
+/* Botões DESABILITADOS (ex: 'Primeiro' ou 'Anterior' na primeira página) */
+.dataTables_wrapper .paginate_button.disabled,
+.dataTables_wrapper .paginate_button.disabled:hover,
+.dataTables_wrapper .paginate_button.disabled:focus {
+    background-color: #2c2c4a !important; /* Tom mais escuro para desabilitado */
+    color: #888888 !important; /* Texto cinza claro para desabilitado */
+    border-color: #4a4a75 !important; /* Borda mais suave */
+    cursor: not-allowed; /* Cursor de "não permitido" */
+    box-shadow: none !important; /* Remover brilho */
+    transform: none !important; /* Remover elevação */
+}
+
+
+/* Estilo para o texto de informação (Ex: "Mostrando de 1 até 1 de 1 registros") */
+.dataTables_wrapper .dataTables_info {
+    color: #e0e0e0 !important; /* Cinza claro - Usar !important */
+    margin-top: 10px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+/* Estilo para o campo de pesquisa (se ele não estiver estilizado corretamente) */
+.dataTables_wrapper .dataTables_filter label {
+    color: #e0e0e0 !important; /* Cor do texto "Pesquisar:" - Usar !important */
+    font-size: 0.9em;
+}
+
+.dataTables_wrapper .dataTables_filter input[type="search"] {
+    background-color: #3e3e6b !important; /* Cor de fundo escura - Usar !important */
+    border: 1px solid #00f0ff !important; /* Borda brilhante - Usar !important */
+    color: #e0e0e0 !important; /* Texto claro - Usar !important */
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.dataTables_wrapper .dataTables_filter input[type="search"]:focus {
+    border-color: #00ffff !important; /* Borda mais clara ao focar - Usar !important */
+    box-shadow: 0 0 8px rgba(0, 240, 255, 0.6) !important; /* Brilho ao focar - Usar !important */
+    outline: none; /* Remover o contorno padrão do navegador */
+}
+
+/* --- Regra para descer o conteúdo (mantém o que já estava) --- */
+#main-content-wrapper {
+    padding-top: 80px; /* Ajuste este valor conforme necessário */
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+/* Reset básico (mantém o que já estava) */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+/* Opcional: padding-top no body se seu menu for fixo (mantém o que já estava) */
+/* body { padding-top: 60px; } */
+
+/* In your css/style.css */
+.dashboard-header {
+    display: flex; /* Makes the header a flex container */
+    justify-content: space-between; /* Puts space between the title and button */
+    align-items: center; /* Vertically aligns them */
+    margin-bottom: 30px; /* Space below the header */
+    padding-bottom: 15px; /* Padding at the bottom */
+    border-bottom: 1px solid #3a3a5e; /* Subtle line as seen in previous examples */
+}
+
+.dashboard-header-title {
+    /* Your specific styles for the title (e.g., color, font-size) */
+    color: #00bcd4; /* Example neon blue */
+    font-weight: 600;
+    font-size: 2.2rem;
+    /* margin-bottom: 0; is already applied inline, but can be here too */
+}
+
+.add-plan-btn {
+    /* Your existing button styles */
+    background-color: #00bcd4;
+    border-color: #00bcd4;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-weight: bold;
+}
+.add-plan-btn:hover {
+    background-color: #0097a7;
+    border-color: #0097a7;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 188, 212, 0.3);
+}
+
+/* In your css/style.css */
+.btn-close-custom {
+    background: none;
+    border: none;
+    color: #e0e0e0; /* A light color for the 'x' */
+    font-size: 1.5rem; /* Adjust size as needed */
+    opacity: 0.7; /* Slightly faded */
+    transition: opacity 0.2s ease, color 0.2s ease;
+    padding: 0; /* Remove default button padding */
+}
+
+.btn-close-custom:hover {
+    opacity: 1; /* Fully visible on hover */
+    color: #ffffff; /* Brighter on hover */
+}
+/* Also ensure no conflicting styles, especially if you previously styled .fa-close or .fa-times directly */
+
+/* --- SEÇÃO DE RESPONSIVIDADE --- */
+
+/* Container para tabelas de dados para permitir rolagem horizontal em telas pequenas */
+.table-responsive-container {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Rolagem mais suave em dispositivos iOS */
+    border-radius: 8px; /* Garante que o container tenha os cantos arredondados */
+    box-shadow: 0 0 10px rgba(0, 240, 255, 0.2); /* Mantém o brilho da tabela */
+}
+
+/* Remove a sombra da tabela interna, pois o container agora a tem */
+.table-responsive-container > .table {
+    box-shadow: none;
+}
+
+/* Media Query para dispositivos com tela de até 768px de largura (tablets e celulares) */
+@media (max-width: 768px) {
+    /* Reduz o padding do container principal para dar mais espaço */
+    #main-content-wrapper {
+        padding-top: 70px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /* Ajusta o tamanho da fonte dos títulos */
+    h4 {
+        font-size: 1.2rem;
+        letter-spacing: 1px;
+    }
+
+    /* Ajusta o tamanho dos botões */
+    .btn {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
+
+    /* Melhora a aparência da paginação em telas pequenas */
+    .dataTables_wrapper .paginate_button {
+        padding: 6px 12px;
+        margin: 0 2px;
+    }
+
+    .dataTables_wrapper .dataTables_info,
+    .dataTables_wrapper .dataTables_filter {
+        text-align: center;
+        float: none;
+        width: 100%;
+    }
+
+    .dataTables_wrapper .dataTables_filter {
+        margin-top: 10px;
+    }
+}
+
+/* Media Query para dispositivos com tela de até 480px de largura (celulares) */
+@media (max-width: 480px) {
+    /* Reduz ainda mais o padding */
+    #main-content-wrapper {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* Oculta o texto do botão principal, mostrando apenas o ícone se houver */
+    .dashboard-header .add-plan-btn {
+        /* Se o botão tiver um ícone, você pode ocultar o texto */
+        /* font-size: 0; */
+        /* width: 40px; */
+        /* height: 40px; */
+        /* padding: 0; */
+    }
+}

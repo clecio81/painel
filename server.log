@@ -1,0 +1,1321 @@
+[Sun Nov  9 16:37:54 2025] PHP 8.4.2 Development Server (http://127.0.0.1:8000) started
+[Sun Nov  9 16:38:48 2025] 127.0.0.1:41008 Accepted
+[Sun Nov  9 16:38:48 2025] 127.0.0.1:41008 [200]: GET /planos.php
+[Sun Nov  9 16:38:48 2025] 127.0.0.1:41008 Closing
+[Sun Nov  9 16:38:48 2025] 127.0.0.1:41012 Accepted
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41012 [200]: GET /css/menu.css
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41022 Accepted
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41022 [200]: GET /img/logo.png
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41012 Closing
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41022 Closing
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41032 Accepted
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41040 Accepted
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41032 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41040 [200]: GET /js/custom.js
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41032 Closing
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41040 Closing
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41048 Accepted
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41048 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41048 Closing
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41064 Accepted
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41064 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:38:49 2025] 127.0.0.1:41064 Closing
+[Sun Nov  9 16:38:50 2025] 127.0.0.1:41080 Accepted
+[Sun Nov  9 16:38:50 2025] 127.0.0.1:41080 [200]: GET /img/icon.png
+[Sun Nov  9 16:38:50 2025] 127.0.0.1:41080 Closing
+[Sun Nov  9 16:38:52 2025] 127.0.0.1:41088 Accepted
+[Sun Nov  9 16:38:52 2025] 127.0.0.1:41088 [302]: GET /planos.php?sair
+[Sun Nov  9 16:38:52 2025] 127.0.0.1:41088 Closing
+[Sun Nov  9 16:38:52 2025] 127.0.0.1:41102 Accepted
+[Sun Nov  9 16:38:52 2025] 127.0.0.1:41102 [200]: GET /index.php
+[Sun Nov  9 16:38:52 2025] 127.0.0.1:41102 Closing
+[Sun Nov  9 16:39:07 2025] 127.0.0.1:36566 Accepted
+[Sun Nov  9 16:39:07 2025] 127.0.0.1:36566 [200]: GET /api/login.php?login=1&username=admin&password=813661
+[Sun Nov  9 16:39:07 2025] 127.0.0.1:36566 Closing
+[Sun Nov  9 16:39:10 2025] 127.0.0.1:36570 Accepted
+[Sun Nov  9 16:39:10 2025] 127.0.0.1:36570 [200]: GET /api/login.php?login=1&username=admin&password=8136
+[Sun Nov  9 16:39:10 2025] 127.0.0.1:36570 Closing
+[Sun Nov  9 16:39:15 2025] 127.0.0.1:33254 Accepted
+[Sun Nov  9 16:39:15 2025] 127.0.0.1:33254 [200]: GET /api/login.php?login=1&username=admin&password=8136
+[Sun Nov  9 16:39:15 2025] 127.0.0.1:33254 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33256 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33256 [200]: GET /api/login.php?login=1&username=admin&password=813671
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33256 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33270 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33270 [200]: GET /clientes.php
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33270 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33280 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33282 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33280 [200]: GET /css/menu.css
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33282 [200]: GET /img/logo.png
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33280 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33290 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33300 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33302 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33282 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33316 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33290 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33316 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33300 [200]: GET /js/custom.js
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33302 [200]: GET /css/style.css
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33290 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33316 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33300 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33302 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33328 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33328 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33328 Closing
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33338 Accepted
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33338 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:39:20 2025] 127.0.0.1:33338 Closing
+[Sun Nov  9 16:39:21 2025] 127.0.0.1:33342 Accepted
+[Sun Nov  9 16:39:21 2025] 127.0.0.1:33342 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:39:21 2025] 127.0.0.1:33342 Closing
+[Sun Nov  9 16:39:21 2025] 127.0.0.1:33356 Accepted
+[Sun Nov  9 16:39:21 2025] 127.0.0.1:33356 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717160772
+[Sun Nov  9 16:39:21 2025] 127.0.0.1:33356 Closing
+[Sun Nov  9 16:39:59 2025] 127.0.0.1:53252 Accepted
+[Sun Nov  9 16:39:59 2025] 127.0.0.1:53252 [200]: GET /dashboard.php
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53252 Closing
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53256 Accepted
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53262 Accepted
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53256 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53278 Accepted
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53262 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53284 Accepted
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53278 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53256 Closing
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53284 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53278 Closing
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53284 Closing
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53262 Closing
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53300 Accepted
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53300 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:00 2025] 127.0.0.1:53300 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55620 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55620 [200]: GET /categorias.php
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55620 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55624 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55624 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55624 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55626 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55626 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55626 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55638 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55646 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55660 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55638 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55646 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55638 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55660 [200]: GET /js/categorias.js?sfd
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55646 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55660 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55672 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55672 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55672 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55678 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55678 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55678 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55686 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55686 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55686 Closing
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55696 Accepted
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55696 [200]: GET /api/listar-clientes.php?listar_categorias&draw=1&columns%5B0%5D%5Bdata%5D=category_id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=category_name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=type&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=is_adult&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=bg&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717204662
+[Sun Nov  9 16:40:04 2025] 127.0.0.1:55696 Closing
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55704 Accepted
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55704 [200]: GET /dashboard.php
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55704 Closing
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55712 Accepted
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55712 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55728 Accepted
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55712 Closing
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55728 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55734 Accepted
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55728 Closing
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55738 Accepted
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55734 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55738 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55734 Closing
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55738 Closing
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55744 Accepted
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55744 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:10 2025] 127.0.0.1:55744 Closing
+[Sun Nov  9 16:40:16 2025] 127.0.0.1:60312 Accepted
+[Sun Nov  9 16:40:16 2025] 127.0.0.1:60312 [200]: GET /
+[Sun Nov  9 16:40:16 2025] 127.0.0.1:60312 Closing
+[Sun Nov  9 16:40:16 2025] 127.0.0.1:60318 Accepted
+[Sun Nov  9 16:40:25 2025] 127.0.0.1:60318 [200]: GET /api/login.php?login=1&username=admin&password=813671
+[Sun Nov  9 16:40:25 2025] 127.0.0.1:60318 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43412 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43412 [200]: GET /clientes.php
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43412 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43422 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43424 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43422 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43422 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43438 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43454 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43460 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43476 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43424 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43424 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43438 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43454 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43460 [200]: GET /css/style.css
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43476 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43438 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43454 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43460 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43476 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43478 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43478 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43478 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43486 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43486 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43486 Closing
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43494 Accepted
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43494 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:40:26 2025] 127.0.0.1:43494 Closing
+[Sun Nov  9 16:40:27 2025] 127.0.0.1:43508 Accepted
+[Sun Nov  9 16:40:27 2025] 127.0.0.1:43508 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717226626
+[Sun Nov  9 16:40:27 2025] 127.0.0.1:43508 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54422 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54422 [200]: GET /clientes.php
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54422 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54428 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54428 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54428 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54430 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54442 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54454 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54456 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54464 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54430 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54442 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54454 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54456 [200]: GET /css/style.css
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54464 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54442 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54454 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54456 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54464 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54430 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54470 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54470 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54470 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54476 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54476 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54476 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54486 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54486 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54486 Closing
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54494 Accepted
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54494 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717236677
+[Sun Nov  9 16:40:36 2025] 127.0.0.1:54494 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54498 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54498 [200]: GET /testes.php
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54498 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54514 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54530 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54514 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54514 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54530 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54530 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54538 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54548 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54554 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54564 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54538 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54548 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54554 [200]: GET /css/style.css
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54538 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54564 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54548 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54554 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54564 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54570 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54570 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54570 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54572 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54572 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54572 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54586 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54586 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54586 Closing
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54600 Accepted
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54600 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717238443
+[Sun Nov  9 16:40:38 2025] 127.0.0.1:54600 Closing
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54616 Accepted
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54616 [200]: GET /dashboard.php
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54616 Closing
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54618 Accepted
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54618 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54624 Accepted
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54618 Closing
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54624 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54624 Closing
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54626 Accepted
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54630 Accepted
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54626 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54630 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54626 Closing
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54630 Closing
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54636 Accepted
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54636 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:40 2025] 127.0.0.1:54636 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54650 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54650 [200]: GET /categorias.php
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54650 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54662 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54662 [200]: GET /css/menu.css
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54662 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54668 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54670 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54686 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54688 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54668 [200]: GET /img/logo.png
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54670 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54686 [200]: GET /js/custom.js
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54688 [200]: GET /js/categorias.js?sfd
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54670 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54686 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54688 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54668 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54694 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54694 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54694 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54696 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54696 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54696 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54708 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54708 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54708 Closing
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54724 Accepted
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54724 [200]: GET /api/listar-clientes.php?listar_categorias&draw=1&columns%5B0%5D%5Bdata%5D=category_id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=category_name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=type&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=is_adult&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=bg&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717243560
+[Sun Nov  9 16:40:43 2025] 127.0.0.1:54724 Closing
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41750 Accepted
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41750 [200]: GET /clientes.php
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41750 Closing
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41766 Accepted
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41766 [200]: GET /css/menu.css
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41766 Closing
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41768 Accepted
+[Sun Nov  9 16:41:06 2025] 127.0.0.1:41768 [200]: GET /img/logo.png
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41768 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41770 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41772 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41780 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41786 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41770 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41772 [200]: GET /js/custom.js
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41780 [200]: GET /css/style.css
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41786 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41770 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41772 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41780 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41786 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41796 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41796 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41796 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41804 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41804 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41804 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41806 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41806 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41806 Closing
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41808 Accepted
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41808 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717267317
+[Sun Nov  9 16:41:07 2025] 127.0.0.1:41808 Closing
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37816 Accepted
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37816 [200]: GET /clientes.php
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37816 Closing
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37832 Accepted
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37832 [200]: GET /css/menu.css
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37846 Accepted
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37832 Closing
+[Sun Nov  9 16:41:52 2025] 127.0.0.1:37850 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37864 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37868 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37882 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37846 [200]: GET /img/logo.png
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37850 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37864 [200]: GET /js/custom.js
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37868 [200]: GET /css/style.css
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37882 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37850 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37864 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37868 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37882 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37846 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37894 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37894 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37894 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37908 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37908 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37908 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37918 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37918 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37918 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37920 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37920 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717313111
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37920 Closing
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37936 Accepted
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37936 [200]: GET /img/icon.png
+[Sun Nov  9 16:41:53 2025] 127.0.0.1:37936 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47130 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47130 [200]: GET /clientes.php
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47130 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47134 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47134 [200]: GET /css/menu.css
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47134 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47138 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47138 [200]: GET /img/logo.png
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47138 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47144 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47158 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47168 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47176 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47144 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47158 [200]: GET /js/custom.js
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47168 [200]: GET /css/style.css
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47176 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47144 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47158 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47168 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47176 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47192 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47192 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47192 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47202 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47202 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47202 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47216 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47216 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47216 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47224 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47224 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717330622
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47224 Closing
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47230 Accepted
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47230 [200]: GET /img/icon.png
+[Sun Nov  9 16:42:10 2025] 127.0.0.1:47230 Closing
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:58750 Accepted
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:58750 [200]: GET /clientes.php
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:58750 Closing
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:51876 Accepted
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:51888 Accepted
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:51876 [200]: GET /css/menu.css
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:51876 Closing
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:51888 [200]: GET /img/logo.png
+[Sun Nov  9 16:42:43 2025] 127.0.0.1:51888 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51898 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51908 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51918 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51920 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51898 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51908 [200]: GET /js/custom.js
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51918 [200]: GET /css/style.css
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51920 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51898 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51908 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51918 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51920 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51928 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51928 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51928 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51936 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51936 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51936 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51948 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51948 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51948 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51952 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51952 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717364099
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51952 Closing
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51968 Accepted
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51968 [200]: GET /img/icon.png
+[Sun Nov  9 16:42:44 2025] 127.0.0.1:51968 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36768 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36768 [200]: GET /clientes.php
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36768 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36778 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36778 [200]: GET /css/menu.css
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36794 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36778 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36794 [200]: GET /img/logo.png
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36794 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36800 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36816 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36824 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36838 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36800 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36800 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36816 [200]: GET /js/custom.js
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36824 [200]: GET /css/style.css
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36838 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36816 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36824 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36838 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36848 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36848 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36848 Closing
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36858 Accepted
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36858 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:43:31 2025] 127.0.0.1:36858 Closing
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36872 Accepted
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36872 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36872 Closing
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36876 Accepted
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36876 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717411648
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36876 Closing
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36890 Accepted
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36890 [200]: GET /img/icon.png
+[Sun Nov  9 16:43:32 2025] 127.0.0.1:36890 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55160 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55160 [200]: GET /clientes.php
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55160 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55170 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55170 [200]: GET /css/menu.css
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55170 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55178 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55184 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55196 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55210 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55214 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55178 [200]: GET /img/logo.png
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55184 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55196 [200]: GET /js/custom.js
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55210 [200]: GET /css/style.css
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55214 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55184 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55196 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55210 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55214 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55178 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55218 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55218 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55218 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55226 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55226 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55226 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55234 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55234 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55234 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55244 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55244 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717422716
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55244 Closing
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55252 Accepted
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55252 [200]: GET /img/icon.png
+[Sun Nov  9 16:43:42 2025] 127.0.0.1:55252 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37794 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37794 [200]: GET /clientes.php
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37794 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37804 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37804 [200]: GET /css/menu.css
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37804 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37808 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37808 [200]: GET /img/logo.png
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37808 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37810 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37820 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37834 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37836 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37810 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37820 [200]: GET /js/custom.js
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37834 [200]: GET /css/style.css
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37836 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37810 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37820 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37834 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37836 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37850 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37850 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37850 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37856 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37856 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37856 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37864 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37864 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37864 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37866 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37866 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717425411
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37866 Closing
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37876 Accepted
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37876 [200]: GET /img/icon.png
+[Sun Nov  9 16:43:45 2025] 127.0.0.1:37876 Closing
+[Sun Nov  9 16:43:48 2025] 127.0.0.1:37892 Accepted
+[Sun Nov  9 16:43:48 2025] 127.0.0.1:37892 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:43:48 2025] 127.0.0.1:37892 Closing
+[Sun Nov  9 16:43:59 2025] 127.0.0.1:48300 Accepted
+[Sun Nov  9 16:43:59 2025] 127.0.0.1:48300 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:43:59 2025] 127.0.0.1:48300 Closing
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48312 Accepted
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48320 Accepted
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48332 Accepted
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48312 [200]: GET /api/listar-clientes.php?listar_clientes&draw=2&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717425412
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48312 Closing
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48320 [200]: GET /api/listar-clientes.php?listar_clientes&draw=3&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717425413
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48320 Closing
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48332 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:44:00 2025] 127.0.0.1:48332 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37022 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37022 [200]: GET /testes.php
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37022 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37036 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37040 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37036 [200]: GET /css/menu.css
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37036 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37040 [200]: GET /img/logo.png
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37040 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37056 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37062 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37078 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37088 Accepted
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37056 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37062 [200]: GET /js/custom.js
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37078 [200]: GET /css/style.css
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37088 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37056 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37062 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37078 Closing
+[Sun Nov  9 16:44:20 2025] 127.0.0.1:37088 Closing
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37094 Accepted
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37094 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37094 Closing
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37100 Accepted
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37100 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37100 Closing
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37102 Accepted
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37102 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37102 Closing
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37108 Accepted
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37108 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717460937
+[Sun Nov  9 16:44:21 2025] 127.0.0.1:37108 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54908 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54908 [200]: GET /revendedores.php
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54908 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54912 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54912 [200]: GET /css/menu.css
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54912 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54916 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54916 [200]: GET /img/logo.png
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54916 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54932 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54936 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54944 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54958 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54932 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54936 [200]: GET /js/custom.js
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54944 [200]: GET /css/style.css
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54958 [200]: GET /js/revendedores.js?sfd
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54932 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54936 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54944 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54958 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54968 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54968 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54968 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54982 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54982 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54982 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54990 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54990 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54990 Closing
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54998 Accepted
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54998 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717466541
+[Sun Nov  9 16:44:26 2025] 127.0.0.1:54998 Closing
+[Sun Nov  9 16:44:28 2025] 127.0.0.1:55000 Accepted
+[Sun Nov  9 16:44:28 2025] 127.0.0.1:55000 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:44:28 2025] 127.0.0.1:55000 Closing
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43548 Accepted
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43548 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43548 Closing
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43564 Accepted
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43580 Accepted
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43594 Accepted
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43564 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=2&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717466542
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43564 Closing
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43580 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=3&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717466543
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43580 Closing
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43594 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:44:46 2025] 127.0.0.1:43594 Closing
+[Sun Nov  9 16:44:54 2025] 127.0.0.1:52548 Accepted
+[Sun Nov  9 16:44:54 2025] 127.0.0.1:52548 [302]: GET /revendedores.php?sair
+[Sun Nov  9 16:44:54 2025] 127.0.0.1:52548 Closing
+[Sun Nov  9 16:44:54 2025] 127.0.0.1:52550 Accepted
+[Sun Nov  9 16:44:54 2025] 127.0.0.1:52550 [200]: GET /index.php
+[Sun Nov  9 16:44:54 2025] 127.0.0.1:52550 Closing
+[Sun Nov  9 16:45:05 2025] 127.0.0.1:40074 Accepted
+[Sun Nov  9 16:45:05 2025] 127.0.0.1:40074 [200]: GET /api/login.php?login=1&username=admin1&password=8136
+[Sun Nov  9 16:45:05 2025] 127.0.0.1:40074 Closing
+[Sun Nov  9 16:45:05 2025] 127.0.0.1:40084 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40084 [200]: GET /clientes.php
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40084 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40092 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40092 [200]: GET /css/menu.css
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40094 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40094 [200]: GET /img/logo.png
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40092 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40094 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40108 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40124 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40134 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40150 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40108 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40124 [200]: GET /js/custom.js
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40134 [200]: GET /css/style.css
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40150 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40108 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40124 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40134 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40150 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40154 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40154 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40154 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40166 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40166 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40166 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40182 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40182 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40182 Closing
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40198 Accepted
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40198 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717506193
+[Sun Nov  9 16:45:06 2025] 127.0.0.1:40198 Closing
+[Sun Nov  9 16:45:11 2025] 127.0.0.1:40210 Accepted
+[Sun Nov  9 16:45:11 2025] 127.0.0.1:40210 [200]: GET /testes.php
+[Sun Nov  9 16:45:11 2025] 127.0.0.1:40210 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40212 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40224 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40212 [200]: GET /css/menu.css
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40224 [200]: GET /img/logo.png
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40212 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40224 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40226 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40232 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40238 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40254 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40226 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40232 [200]: GET /js/custom.js
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40238 [200]: GET /css/style.css
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40226 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40254 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40232 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40238 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40254 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40258 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40258 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40258 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40266 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40266 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40266 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40278 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40278 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40278 Closing
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40294 Accepted
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40294 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717512098
+[Sun Nov  9 16:45:12 2025] 127.0.0.1:40294 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58686 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58686 [200]: GET /planos.php
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58686 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58694 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58694 [200]: GET /css/menu.css
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58704 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58694 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58704 [200]: GET /img/logo.png
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58708 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58704 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58712 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58708 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58708 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58712 [200]: GET /js/custom.js
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58712 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58726 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58726 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58726 Closing
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58732 Accepted
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58732 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:16 2025] 127.0.0.1:58732 Closing
+[Sun Nov  9 16:45:19 2025] 127.0.0.1:58736 Accepted
+[Sun Nov  9 16:45:19 2025] 127.0.0.1:58736 [200]: POST /api/planos.php
+[Sun Nov  9 16:45:19 2025] 127.0.0.1:58736 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58744 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58744 [200]: POST /api/planos.php
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58744 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58754 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58754 [200]: GET /planos.php
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58754 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58770 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58770 [200]: GET /css/menu.css
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58770 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58780 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58780 [200]: GET /img/logo.png
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58788 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58780 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58800 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58788 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58800 [200]: GET /js/custom.js
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58788 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58800 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58810 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58810 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58810 Closing
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58816 Accepted
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58816 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:20 2025] 127.0.0.1:58816 Closing
+[Sun Nov  9 16:45:22 2025] 127.0.0.1:58824 Accepted
+[Sun Nov  9 16:45:22 2025] 127.0.0.1:58824 [200]: POST /api/planos.php
+[Sun Nov  9 16:45:22 2025] 127.0.0.1:58824 Closing
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56852 Accepted
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56852 [200]: GET /dashboard.php
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56852 Closing
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56860 Accepted
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56860 [200]: GET /css/menu.css
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56866 Accepted
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56860 Closing
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56866 [200]: GET /img/logo.png
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56866 Closing
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56874 Accepted
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56878 Accepted
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56874 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56878 [200]: GET /js/custom.js
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56874 Closing
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56878 Closing
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56886 Accepted
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56886 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:45:30 2025] 127.0.0.1:56886 Closing
+[Sun Nov  9 16:45:47 2025] 127.0.0.1:40834 Accepted
+[Sun Nov  9 16:45:47 2025] 127.0.0.1:40834 [302]: GET /dashboard.php?sair
+[Sun Nov  9 16:45:47 2025] 127.0.0.1:40834 Closing
+[Sun Nov  9 16:45:47 2025] 127.0.0.1:40842 Accepted
+[Sun Nov  9 16:45:47 2025] 127.0.0.1:40842 [200]: GET /index.php
+[Sun Nov  9 16:45:47 2025] 127.0.0.1:40842 Closing
+[Sun Nov  9 16:46:00 2025] 127.0.0.1:56582 Accepted
+[Sun Nov  9 16:46:00 2025] 127.0.0.1:56582 [200]: GET /api/login.php?login=1&username=admin1&password=8136
+[Sun Nov  9 16:46:00 2025] 127.0.0.1:56582 Closing
+[Sun Nov  9 16:46:00 2025] 127.0.0.1:56594 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56594 [200]: GET /clientes.php
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56594 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56606 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56606 [200]: GET /css/menu.css
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56606 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56608 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56618 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56624 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56630 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56646 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56608 [200]: GET /img/logo.png
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56618 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56618 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56624 [200]: GET /js/custom.js
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56630 [200]: GET /css/style.css
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56646 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56608 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56624 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56630 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56646 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56662 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56662 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56662 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56678 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56678 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56678 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56686 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56686 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56686 Closing
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56690 Accepted
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56690 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717561314
+[Sun Nov  9 16:46:01 2025] 127.0.0.1:56690 Closing
+[Sun Nov  9 16:46:09 2025] 127.0.0.1:48566 Accepted
+[Sun Nov  9 16:46:09 2025] 127.0.0.1:48566 [200]: GET /index.php
+[Sun Nov  9 16:46:09 2025] 127.0.0.1:48566 Closing
+[Sun Nov  9 16:46:10 2025] 127.0.0.1:48574 Accepted
+[Sun Nov  9 16:46:10 2025] 127.0.0.1:48574 [200]: GET /img/icon.png
+[Sun Nov  9 16:46:10 2025] 127.0.0.1:48574 Closing
+[Sun Nov  9 16:46:19 2025] 127.0.0.1:48674 Accepted
+[Sun Nov  9 16:46:19 2025] 127.0.0.1:48674 [200]: GET /api/login.php?login=1&username=admin&password=813671
+[Sun Nov  9 16:46:19 2025] 127.0.0.1:48674 Closing
+[Sun Nov  9 16:46:19 2025] 127.0.0.1:48680 Accepted
+[Sun Nov  9 16:46:19 2025] 127.0.0.1:48680 [200]: GET /clientes.php
+[Sun Nov  9 16:46:19 2025] 127.0.0.1:48680 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48696 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48700 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48708 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48714 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48720 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48728 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48696 [200]: GET /css/menu.css
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48700 [200]: GET /img/logo.png
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48708 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48714 [200]: GET /js/custom.js
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48720 [200]: GET /css/style.css
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48728 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48696 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48708 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48714 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48720 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48728 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48700 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48740 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48740 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48740 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48746 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48746 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48746 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48752 Accepted
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48752 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48752 Closing
+[Sun Nov  9 16:46:20 2025] 127.0.0.1:48762 Accepted
+[Sun Nov  9 16:46:21 2025] 127.0.0.1:48762 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717580603
+[Sun Nov  9 16:46:21 2025] 127.0.0.1:48762 Closing
+[Sun Nov  9 16:46:21 2025] 127.0.0.1:48766 Accepted
+[Sun Nov  9 16:46:21 2025] 127.0.0.1:48766 [200]: GET /img/icon.png
+[Sun Nov  9 16:46:21 2025] 127.0.0.1:48766 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48770 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48770 [200]: GET /revendedores.php
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48770 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48776 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48786 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48790 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48776 [200]: GET /css/menu.css
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48804 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48776 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48806 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48822 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48786 [200]: GET /js/revendedores.js?sfd
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48790 [200]: GET /img/logo.png
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48786 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48790 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48804 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48806 [200]: GET /js/custom.js
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48822 [200]: GET /css/style.css
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48804 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48806 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48822 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48830 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48830 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48830 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48846 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48846 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48846 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48856 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48856 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48856 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48862 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48862 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583510
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48862 Closing
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48872 Accepted
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48872 [200]: GET /img/icon.png
+[Sun Nov  9 16:46:23 2025] 127.0.0.1:48872 Closing
+[Sun Nov  9 16:46:26 2025] 127.0.0.1:48028 Accepted
+[Sun Nov  9 16:46:26 2025] 127.0.0.1:48028 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:46:26 2025] 127.0.0.1:48028 Closing
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48038 Accepted
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48038 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48038 Closing
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48048 Accepted
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48062 Accepted
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48070 Accepted
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48048 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=2&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583511
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48048 Closing
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48062 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=3&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583512
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48062 Closing
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48070 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:31 2025] 127.0.0.1:48070 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53030 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53030 [200]: GET /clientes.php
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53030 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53046 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53046 [200]: GET /css/menu.css
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53046 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53050 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53066 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53074 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53078 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53088 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53050 [200]: GET /img/logo.png
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53066 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53074 [200]: GET /js/custom.js
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53078 [200]: GET /css/style.css
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53088 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53066 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53074 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53078 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53088 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53050 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53096 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53096 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53096 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53110 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53110 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53110 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53124 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53124 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53124 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53128 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53128 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717599775
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53128 Closing
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53132 Accepted
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53132 [200]: GET /img/icon.png
+[Sun Nov  9 16:46:39 2025] 127.0.0.1:53132 Closing
+[Sun Nov  9 16:46:58 2025] 127.0.0.1:37354 Accepted
+[Sun Nov  9 16:46:58 2025] 127.0.0.1:37354 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:46:58 2025] 127.0.0.1:37354 Closing
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37358 Accepted
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37358 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37358 Closing
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37362 Accepted
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37364 Accepted
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37366 Accepted
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37362 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=4&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583513
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37362 Closing
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37364 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=5&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583514
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37364 Closing
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37366 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:02 2025] 127.0.0.1:37366 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46174 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46174 [200]: GET /clientes.php
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46174 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46182 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46182 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46182 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46190 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46190 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46202 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46216 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46230 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46190 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46238 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46202 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46238 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46216 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46230 [200]: GET /css/style.css
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46202 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46238 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46216 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46230 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46248 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46248 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46248 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46250 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46250 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46250 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46256 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46256 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46256 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46260 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46260 [200]: GET /img/icon.png
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46260 Closing
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46264 Accepted
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46264 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717631616
+[Sun Nov  9 16:47:11 2025] 127.0.0.1:46264 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46688 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46688 [200]: GET /testes.php
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46688 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46694 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46708 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46694 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46694 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46708 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46708 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46714 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46730 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46734 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46736 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46714 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46730 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46734 [200]: GET /css/style.css
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46736 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46714 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46730 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46734 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46736 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46740 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46740 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46740 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46752 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46752 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46752 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46754 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46754 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46754 Closing
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46756 Accepted
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46756 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717635409
+[Sun Nov  9 16:47:15 2025] 127.0.0.1:46756 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54248 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54248 [200]: GET /testes.php
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54248 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54254 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54254 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54254 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54262 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54262 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54262 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54278 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54282 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54288 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54298 Accepted
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54278 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54282 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54288 [200]: GET /css/style.css
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54298 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54278 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54282 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54288 Closing
+[Sun Nov  9 16:47:27 2025] 127.0.0.1:54298 Closing
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54310 Accepted
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54310 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54310 Closing
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54320 Accepted
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54320 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54320 Closing
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54332 Accepted
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54332 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54332 Closing
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54346 Accepted
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54346 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717647966
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54346 Closing
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54360 Accepted
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54360 [200]: GET /img/icon.png
+[Sun Nov  9 16:47:28 2025] 127.0.0.1:54360 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54372 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54372 [200]: GET /testes.php
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54372 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54380 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54380 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54384 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54380 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54384 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54384 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54390 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54406 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54412 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54426 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54390 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54406 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54412 [200]: GET /css/style.css
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54426 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54390 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54406 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54412 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:54426 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49196 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49196 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49196 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49202 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49202 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49202 Closing
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49210 Accepted
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49210 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:33 2025] 127.0.0.1:49210 Closing
+[Sun Nov  9 16:47:34 2025] 127.0.0.1:49224 Accepted
+[Sun Nov  9 16:47:34 2025] 127.0.0.1:49224 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717653829
+[Sun Nov  9 16:47:34 2025] 127.0.0.1:49224 Closing
+[Sun Nov  9 16:47:34 2025] 127.0.0.1:49228 Accepted
+[Sun Nov  9 16:47:34 2025] 127.0.0.1:49228 [200]: GET /img/icon.png
+[Sun Nov  9 16:47:34 2025] 127.0.0.1:49228 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49244 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49244 [200]: GET /clientes.php
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49244 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49246 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49252 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49246 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49246 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49252 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49252 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49268 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49282 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49294 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49296 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49268 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49282 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49294 [200]: GET /css/style.css
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49296 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49268 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49282 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49294 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49296 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49312 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49312 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49312 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49326 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49326 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49326 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49330 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49330 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49330 Closing
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49336 Accepted
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49336 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717655443
+[Sun Nov  9 16:47:35 2025] 127.0.0.1:49336 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49352 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49352 [200]: GET /testes.php
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49352 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49356 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49362 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49356 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49356 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49378 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49384 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49388 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49362 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49400 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49362 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49378 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49384 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49388 [200]: GET /css/style.css
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49400 [200]: GET /js/datatabletestes.js?sfd
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49378 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49384 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49388 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49400 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49412 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49412 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49412 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49418 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49418 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49418 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49432 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49432 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49432 Closing
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49448 Accepted
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49448 [200]: GET /api/listar-clientes.php?listar_testes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=status&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=vencimento&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=acao&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717660710
+[Sun Nov  9 16:47:40 2025] 127.0.0.1:49448 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49456 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49456 [200]: GET /clientes.php
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49456 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49464 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49464 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49464 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49478 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49478 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49478 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49490 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49502 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49518 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49526 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49490 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49502 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49518 [200]: GET /css/style.css
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49526 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49490 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49502 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49518 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49526 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49530 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49530 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49530 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49544 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49544 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49544 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49558 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49558 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49558 Closing
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49572 Accepted
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49572 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717663544
+[Sun Nov  9 16:47:43 2025] 127.0.0.1:49572 Closing
+[Sun Nov  9 16:47:48 2025] 127.0.0.1:41802 Accepted
+[Sun Nov  9 16:47:48 2025] 127.0.0.1:41802 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:47:48 2025] 127.0.0.1:41802 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53652 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53652 [200]: GET /clientes.php
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53652 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53668 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53680 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53668 [200]: GET /css/menu.css
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53668 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53680 [200]: GET /img/logo.png
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53680 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53696 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53712 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53714 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53730 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53696 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53712 [200]: GET /js/custom.js
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53714 [200]: GET /css/style.css
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53730 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53696 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53712 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53714 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53730 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53746 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53746 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53746 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53762 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53762 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53762 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53770 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53770 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53770 Closing
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53786 Accepted
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53786 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717677457
+[Sun Nov  9 16:47:57 2025] 127.0.0.1:53786 Closing
+[Sun Nov  9 16:47:58 2025] 127.0.0.1:53792 Accepted
+[Sun Nov  9 16:47:58 2025] 127.0.0.1:53792 [200]: POST /api/clientes.php
+[Sun Nov  9 16:47:58 2025] 127.0.0.1:53792 Closing
+[Sun Nov  9 16:48:03 2025] 127.0.0.1:53800 Accepted
+[Sun Nov  9 16:48:03 2025] 127.0.0.1:53800 [200]: POST /api/clientes.php
+[Sun Nov  9 16:48:03 2025] 127.0.0.1:53800 Closing
+[Sun Nov  9 16:48:15 2025] 127.0.0.1:47234 Accepted
+[Sun Nov  9 16:48:15 2025] 127.0.0.1:47234 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:48:15 2025] 127.0.0.1:47234 Closing
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47250 Accepted
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47250 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47250 Closing
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47266 Accepted
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47266 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=6&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583515
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47266 Closing
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47268 Accepted
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47278 Accepted
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47268 [200]: GET /api/listar-clientes.php?listar_revendedores&draw=7&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=usuario&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=creditos&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=tipo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=qnt_revendedores&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=qnt_clientes&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717583516
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47268 Closing
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47278 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:48:17 2025] 127.0.0.1:47278 Closing
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47288 Accepted
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47288 [200]: POST /api/clientes.php
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47288 Closing
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47292 Accepted
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47306 Accepted
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47310 Accepted
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47292 [200]: GET /api/listar-clientes.php?listar_clientes&draw=2&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717677458
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47292 Closing
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47306 [200]: GET /api/listar-clientes.php?listar_clientes&draw=3&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717677459
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47306 Closing
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47310 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:48:22 2025] 127.0.0.1:47310 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39510 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39510 [200]: GET /clientes.php
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39510 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39526 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39526 [200]: GET /css/menu.css
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39534 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39526 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39550 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39558 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39572 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39586 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39534 [200]: GET /img/logo.png
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39550 [200]: GET /js/sweetalert2.js
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39558 [200]: GET /js/custom.js
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39572 [200]: GET /css/style.css
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39586 [200]: GET /js/datatableclientes.js?sfd
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39550 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39558 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39572 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39586 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39534 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39596 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39596 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39596 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39608 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39608 [200]: GET /api/listar-clientes.php?info_admin
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39608 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39614 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39614 [200]: GET /js/datatables/pt_br.json
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39614 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39620 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39620 [200]: GET /api/listar-clientes.php?listar_clientes&draw=1&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=usuario&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=indicados&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=status&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=vencimento&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=acao&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B0%5D%5Bname%5D=&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&_=1762717704428
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39620 Closing
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39634 Accepted
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39634 [200]: GET /img/icon.png
+[Sun Nov  9 16:48:24 2025] 127.0.0.1:39634 Closing
+[Sun Nov  9 16:48:36 2025] 127.0.0.1:56364 Accepted
+[Sun Nov  9 16:48:36 2025] 127.0.0.1:56364 [200]: POST /api/revendedores.php
+[Sun Nov  9 16:48:36 2025] 127.0.0.1:56364 Closing
