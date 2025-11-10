@@ -2,7 +2,7 @@
 FROM php:8.2-fpm-alpine as php_builder
 
 # Install PHP extensions if needed (e.g., pdo_mysql, mysqli)
-# RUN docker-php-ext-install pdo_mysql mysqli
+RUN docker-php-ext-install pdo_mysql mysqli
 
 # Stage 2: Final image with Nginx and PHP-FPM
 FROM alpine:latest
@@ -10,9 +10,9 @@ FROM alpine:latest
 # Install Nginx and PHP-FPM dependencies
 RUN apk add --no-cache nginx php82-fpm php82-mysqli php82-pdo_mysql
 
-# Copy PHP-FPM configuration
-# Adjust this path if your php-fpm.d is elsewhere in the php_builder stage
-COPY --from=php_builder /usr/local/etc/php-fpm.d/www.conf /etc/php82/php-fpm.d/www.conf
+# Create PHP-FPM configuration to listen on TCP port 9000 and log to stderr
+RUN mkdir -p /etc/php82/php-fpm.d/ \
+    && echo "[global]\nerror_log = /proc/self/fd/2\n[www]\nlisten = 127.0.0.1:9000\naccess.log = /proc/self/fd/2\nclear_env = no" > /etc/php82/php-fpm.d/www.conf
 
 # Copy Nginx configuration
 COPY nginx.conf /etc/nginx/nginx.conf
@@ -32,4 +32,4 @@ RUN chown -R nginx:nginx /var/www/html \
 EXPOSE 8080
 
 # Start Nginx and PHP-FPM
-CMD ["sh", "-c", "php-fpm82 --nodaemon & nginx -g \"daemon off;\""]
+CMD ["sh", "-c", "php-fpm82 --nodaemon & nginx -g "daemon off;""]
